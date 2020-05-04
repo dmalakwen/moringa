@@ -1,25 +1,29 @@
-# moringa
+# dmalakwen
 
 
 # This is a little website about me. Very simple and staright forward. 
 
-#### {This website desciribes me}, {4th April 2020}
+#### This website desciribes me, 4th April 2020
 #### By Daniel Malakwen
 ## Description
-{TThis is a simple html/css page that describes in a nut shell about me.I have  highlighted my knowledge and skills . }
+This is a simple html/css page that describes in a nut shell about me.I have  highlighted my knowledge and skills . 
+
 ## Setup/Installation Requirements
 *Clone this repo then open your with your favorite browser.
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{None at the moment. Will document as soon as it arises }
-## Technologies Used
-I used HTML and CSS. }
-## Support and contact details
-{contact me for any assistance or if you want to make a contribution towards this project}
-### License
-*{The MIT License (MIT)
 
-Copyright (c) 2015 - Igor Antun
+## Known Bugs
+None at the moment. Will document as soon as it arises 
+
+## Technologies Used
+I used HTML and CSS. 
+
+## Support and contact details
+contact me for any assistance or if you want to make a contribution towards this project
+
+### License
+The MIT License (MIT)
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
