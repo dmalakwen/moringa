@@ -2,3 +2,26 @@ h1 {
     color: blue;
     text-align: center;
 }
+
+h2 {
+    color: crimson;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
+
+.intro {
+    font: outline;
+    font-size: xx-large;
+    background-color: hotpink;
+    font-style: italic;
+    border: indianred;
+    margin: 20px;
+}
