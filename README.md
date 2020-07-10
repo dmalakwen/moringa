@@ -1,7 +1,7 @@
 # dmalakwen
 
 
-# This is a little website about me. Very simple and staright forward. 
+# forward. 
 
 #### About Me
 
