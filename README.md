@@ -3,8 +3,9 @@
 
 # This is a little website about me. Very simple and staright forward. 
 
-#### This website desciribes me, 4th April 2020
-#### By Daniel Malakwen
+#### About Me
+
+By Daniel Malakwen
 ## Description
 This is a simple html/css page that describes in a nut shell about me.I have  highlighted my knowledge and skills . 
 
@@ -19,6 +20,7 @@ I used HTML and CSS.
 
 ## Support and contact details
 contact me for any assistance or if you want to make a contribution towards this project
+
 
 ### License
 The MIT License (MIT)
@@ -42,4 +44,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
+
 Copyright (c) 2020 **{Daniel Malakwen}**
